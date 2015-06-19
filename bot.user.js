@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name        AposBot
-// @namespace   AposBot
+// @name        sasi
+// @namespace   sasi
 // @include     http://agar.io/
 // @version     3.05
 // @grant       none
-// @author      http://www.twitch.tv/apostolique
+// @author      none
 // ==/UserScript==
 
 
